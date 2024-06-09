@@ -400,97 +400,189 @@ Thanks for their excellent work!
 All environments were set up according to the baseline instructions. The version of the environment upon completion is as follows:
 
 OS:ubuntu 20.04
+
 CPU: Intel i9-10940X
+
 GPU:NVIDIA RTX 4090-24G 
+
 RAM:128GB
+
 Python:3.7.16
+
 Package                  Version
+
 ------------------------ --------------------
+
 absl-py                  2.1.0
+
 beautifulsoup4           4.12.3
+
 cachetools               5.3.3
+
 certifi                  2022.12.7
+
 charset-normalizer       3.3.2
+
 cycler                   0.11.0
+
 Cython                   3.0.10
+
 cython-bbox              0.1.5
+
 easydict                 1.13
+
 faiss-gpu                1.7.2
+
 filelock                 3.12.2
+
 filterpy                 1.4.5
+
 flatbuffers              24.3.25
+
 fonttools                4.38.0
+
 gdown                    4.7.3
+
 google-auth              2.29.0
+
 google-auth-oauthlib     0.4.6
+
 grpcio                   1.62.2
+
 h5py                     3.8.0
+
 idna                     3.7
+
 imageio                  2.31.2
+
 importlib-metadata       6.7.0
+
 joblib                   1.3.2
+
 kiwisolver               1.4.5
+
 lap                      0.4.0
+
 loguru                   0.7.2
+
 Markdown                 3.4.4
+
 MarkupSafe               2.1.5
+
 matplotlib               3.5.3
+
 networkx                 2.6.3
+
 ninja                    1.11.1.1
+
 numpy                    1.21.6
+
 nvidia-cublas-cu11       11.10.3.66
+
 nvidia-cuda-nvrtc-cu11   11.7.99
+
 nvidia-cuda-runtime-cu11 11.7.99
+
 nvidia-cudnn-cu11        8.5.0.96
+
 oauthlib                 3.2.2
+
 onnx                     1.8.1
+
 onnx-simplifier          0.3.5
+
 onnxoptimizer            0.3.13
+
 onnxruntime              1.8.0
+
 opencv-python            4.9.0.80
+
 packaging                24.0
+
 pandas                   1.3.5
+
 Pillow                   9.5.0
+
 pip                      22.3.1
+
 prettytable              3.7.0
+
 protobuf                 3.20.3
+
 pyasn1                   0.5.1
+
 pyasn1-modules           0.3.0
+
 pycocotools              2.0
+
 pyparsing                3.1.2
+
 PySocks                  1.7.1
+
 python-dateutil          2.9.0.post0
+
 pytz                     2024.1
+
 PyWavelets               1.3.0
+
 PyYAML                   6.0.1
+
 requests                 2.31.0
+
 requests-oauthlib        2.0.0
+
 rsa                      4.9
+
 scikit-image             0.19.3
+
 scikit-learn             1.0.2
+
 scipy                    1.7.3
+
 seaborn                  0.12.2
+
 setuptools               65.6.3
+
 six                      1.16.0
+
 soupsieve                2.4.1
+
 tabulate                 0.9.0
+
 tensorboard              2.11.2
+
 tensorboard-data-server  0.6.1
+
 tensorboard-plugin-wit   1.8.1
+
 termcolor                2.3.0
+
 thop                     0.1.1.post2209072238
+
 threadpoolctl            3.1.0
+
 tifffile                 2021.11.2
+
 torch                    1.13.1
+
 torchvision              0.14.1
+
 tqdm                     4.66.2
+
 typing_extensions        4.7.1
+
 urllib3                  2.0.7
+
 wcwidth                  0.2.13
+
 Werkzeug                 2.2.3
+
 wheel                    0.38.4
+
 xmltodict                0.13.0
+
 yacs                     0.1.8
+
 zipp                     3.15.0
 
 
